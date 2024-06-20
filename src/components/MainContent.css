@@ -1,0 +1,17 @@
+.main-content {
+    padding: 2rem;
+}
+
+.section {
+    margin-bottom: 2rem;
+}
+
+.section h2 {
+    font-size: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.section p {
+    line-height: 1.6;
+}
+
